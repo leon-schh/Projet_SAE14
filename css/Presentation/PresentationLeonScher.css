@@ -1,0 +1,57 @@
+header{
+    display : flex;
+    background-color : black;
+    color : white;
+    font-family: 'Nunito', sans-serif;
+    font-size : 300%;
+    text-align: center;
+    border-style : solid;
+    border-radius : 30px;
+    font-weight: 800;
+}
+
+body{
+    background-color : black;
+    color : white
+}
+
+h1{
+    color : #00ffcd;
+    font-family: 'Nunito', sans-serif;
+    font-size : 150%;
+    text-align: center;
+    border-style : solid;
+    border-radius : 30px;
+    margin-top : 5%;
+
+}
+
+div{
+    margin-left:10%;
+    margin-right:10%; 
+}
+
+article{
+     font-family: 'Nunito', sans-serif;
+    font-size : 150%;
+}
+a{
+    color : #00ffcd;
+}
+
+u{
+    color : #00ffcd;
+    
+}
+.titre{
+    flex-basis: 80%;
+    margin-left: 10%;
+}
+.home{
+    flex-basis: 10%;
+}
+.icon{
+    width: 30%;
+    margin-bottom: 20px;
+    margin-top : 30px;
+}
